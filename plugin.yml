@@ -1,5 +1,5 @@
-main: org.pixeltime.minez.antitreefall.AntiTreefall
-name: AntiTreefall
+main: org.pixeltime.minez.notreefall.NoTreefall
+name: NoTreefall
 author: Feier
 version: 1.0
 website: https://github.com/HealPot
